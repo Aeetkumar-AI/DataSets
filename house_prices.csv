@@ -1,0 +1,21 @@
+SquareFootage,Bedrooms,Price,Location
+1500,3,250000,New York
+1800,4,320000,Los Angeles
+1700,3,280000,Chicago
+1600,2,220000,Houston
+1900,4,340000,New York
+2000,5,400000,Los Angeles
+2100,4,370000,Chicago
+1750,3,290000,Houston
+1850,3,310000,New York
+1950,4,330000,Los Angeles
+1400,2,210000,Chicago
+1650,2,240000,Houston
+1550,3,260000,New York
+1800,4,315000,Los Angeles
+2050,5,390000,Chicago
+2200,4,420000,Houston
+2300,5,450000,New York
+2400,4,460000,Los Angeles
+2500,5,500000,Chicago
+2600,4,480000,Houston
